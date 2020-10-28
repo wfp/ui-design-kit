@@ -4,14 +4,14 @@
     <title>WFP Logos Sketch Library</title>
     <description>Collection of WFP logos in SVG format.</description>
     <image>
-      <url></url>
       <title>WFP Logos</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>WFP Logos</title>
       <pubDate>Wed, 28 Oct 2020 12:10:00</pubDate>
-      <enclosure url="https://github.com/wfp/ui-design-kit/blob/master/WFP%20Logos.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <link>https://github.com/wfpui/ui-design-kit</link>
+      <enclosure url="https://github.com/wfp/ui-design-kit/raw/develop/WFP%20Logos.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
